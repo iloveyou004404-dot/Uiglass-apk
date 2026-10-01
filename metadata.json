@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Glass UI",
+  "description": "An iOS 27-inspired translucent Liquid Glass experience for Android with interactive Home, Control Center, Lock Screen, Dynamic Area, and Widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

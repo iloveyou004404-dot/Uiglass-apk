@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Liquid Glass</string>
+    <string name="title_home">Home</string>
+    <string name="title_control_center">Control Center</string>
+    <string name="title_lock_screen">Lock Screen</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_widgets">Widgets</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_customization">Customize</string>
+    <string name="title_privacy">Privacy &amp; Permissions</string>
+    <string name="title_about">About Liquid Glass</string>
+    
+    <!-- Action descriptions -->
+    <string name="action_open_settings">Open System Settings</string>
+    <string name="action_flashlight_on">Flashlight On</string>
+    <string name="action_flashlight_off">Flashlight Off</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_dismiss">Dismiss</string>
+    <string name="action_unlock">Swipe up to unlock</string>
+    <string name="action_customize">Customize Layout</string>
+</resources>
